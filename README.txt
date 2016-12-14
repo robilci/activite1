@@ -1,6 +1,9 @@
 Je crée une page html vide
 
-- j'ajoute une balise h1
-- j'ajoute un paragraphe
-- J'ajoute du css
-- J'ajoute du texte dans le paragraphe
+Commit :
+- Ajout du readme
+- Ajout du ficier HTML
+- Ajout d'un titre h1
+- Ajout d'un fichier CSS
+- Ajout d'un texte p
+- Modification du README.txt
